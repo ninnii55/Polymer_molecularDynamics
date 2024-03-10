@@ -1,5 +1,5 @@
 # Polymer_molecularDynamics
-Various bits of code to set up and analyse polymer simulations
+Various bits of code to set up and analyse polymer simulations that were conseptualised in my thesis (*Tardiota, N., 2023. Molecular dynamics of gelatin-based peptide systems  Doctoral dissertation, Queensland University of Technology*).
 
 ## Polymer_number (Folder) Polymer_number_MD_V1
   Directory that contains python code (Polymer_number_MD_V1), whic can be used to calculate how many individual polymers (w/v) and waters are required in a certain simulation box (cube). This currently only calculates the volume (cm^3) of a cubic system. Available in a notbook version (.ipynb) or python file (.py)
