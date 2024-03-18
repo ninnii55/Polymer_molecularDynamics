@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Tardiota
+    given-names: Nicolas
+    orcid: https://orcid.org/0000-0002-4594-473X
+title: "Polymer_Distribution_V1"
+version: 1.0
+identifiers:
+  - type: doi
+    value: 
+date-released: 2024-03-19
